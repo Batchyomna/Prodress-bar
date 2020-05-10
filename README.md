@@ -1,2 +1,2 @@
-# Prodress-bar
+# Progress-bar
 Avec HMTL,CSS et JS
